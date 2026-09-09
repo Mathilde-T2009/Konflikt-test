@@ -1,1 +1,1 @@
-#Ukens oppgave:TBD
+#Ukens oppgave: lag en to do list
