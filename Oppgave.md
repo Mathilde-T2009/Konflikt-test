@@ -1,1 +1,1 @@
-#Ukens oppgave: lag en to do list
+#Ukens oppgave:Lag en Snake-app
