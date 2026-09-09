@@ -1,1 +1,1 @@
-#Ukens oppgave:TBD
+#Ukens oppgave:Lag en Snake-app
